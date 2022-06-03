@@ -13,15 +13,3 @@ The purpose of this part is to create a new class for representing longitudinal 
 1. **oop_code.R:** an R script file that contains the code implementing your classes, methods, and generics for the longitudinal dataset.
 
 2. **oop_output.txt:** a text file containing the output of running the above input code.
-
-
-
-
-
-
-
-
-
-
-## The second largest heading
-###### The smallest heading
