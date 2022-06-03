@@ -9,7 +9,7 @@ The objective of Part 1 is to write a function that computes the factorial of an
 2. **factorial_output.txt:** a text file that contains the results of your comparison of the four different implementations.
 
 
-##**Part 2: Longitudinal Data Class and Methods**
+## **Part 2: Longitudinal Data Class and Methods**
 
 The purpose of this part is to create a new class for representing longitudinal data, which is data that is collected over time on a given subject/person. This data may be collected at multiple visits, in multiple locations.
 
